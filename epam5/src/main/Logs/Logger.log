@@ -1,0 +1,11 @@
+2020-03-02 18:33:09 DEBUG App:14 - Enter option
+2020-03-02 18:33:09 DEBUG App:15 - 1. Simpele Intrest
+2. Construction of house
+2020-03-02 18:33:15 DEBUG App:44 - Cost to construst a house based on the materials per 1 Square feet
+2020-03-02 18:33:15 DEBUG App:45 - 1. 1200 INR if we use standard materials
+2020-03-02 18:33:15 DEBUG App:46 - 2. 1500 INR if we use above standard materials
+2020-03-02 18:33:15 DEBUG App:47 - 3. 1800 INR if we use high standard material
+2020-03-02 18:33:15 DEBUG App:48 - 4. 2500 INR if w use high standard material and fully automated home
+2020-03-02 18:33:15 DEBUG App:49 - Enter number of square feets of house you required
+2020-03-02 18:33:19 DEBUG App:51 - Enter the option to select the material
+2020-03-02 18:33:21 DEBUG App:55 - Cost to construct your house as your request 14400.0
